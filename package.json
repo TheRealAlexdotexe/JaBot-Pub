@@ -1,0 +1,22 @@
+{
+  "name": "jabot",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^13.0.0",
+    "fs": "0.0.1-security",
+    "mathjs": "^9.4.4",
+    "mongoose": "^5.13.3",
+    "n": "^7.3.1",
+    "random": "^3.0.6",
+    "sleep": "^6.3.0",
+    "yabai": "0.0.10"
+  }
+}

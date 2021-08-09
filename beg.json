@@ -1,0 +1,32 @@
+{
+    "bad": {
+        "badmessages": [
+            "No one cares if you're poor!",
+            "Get a job idiot!",
+            "Instead of just sittin' around beggin', get your butt up and get a job!",
+            "Oh, the next time I see you, you'll be walkin' out the drug store with beer and tabaco!",
+            "Shut up idiot!",
+            "No. One. Cares.",
+            "You're the reason humanity is evolving backwards!",
+            "You remind me of a penny; Worthless."
+        ],
+        "badactions": [
+            "kicked you",
+            "gave you a dirty look",
+            "yelled at you",
+            "despises you",
+            "hit you",
+            "shamed you"
+        ]
+    },
+    "good": {
+        "goodmessages": [
+                "Oh you're just a poor beggar, here.",
+                "Its sad to see you like this! Here, have some.",
+                "Here man!",
+                "Hope you get a job! In the meantime, here, have some.",
+                "If you really need it, here. Spend it wisely.",
+                "M o n e y"
+        ]
+    }
+}
